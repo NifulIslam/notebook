@@ -12,7 +12,7 @@ import javax.swing.JTextArea;
 
 
 public class UserInfoHandle2 {
-   private static File file= new File("G:\\netbeans\\projects\\Assignment2\\src\\assignment2\\UserInfo.txt");
+   private static File file= new File("UserInfo.txt");
     
    
    
